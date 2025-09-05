@@ -5,7 +5,7 @@ public class Launch {
 		//Flow flow =new Flow();
 		//Grid grid = new Grid();
 		//Border border = new Border();
-		Card card=new Card();
-
+		//Card card=new Card();
+		Exercicio7 ex7 = new Exercicio7();
 	}
 }
